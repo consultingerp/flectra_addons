@@ -4,7 +4,7 @@
     "summary": """Added Time Delta Human friedly for From and List""",
     "category": "Project",
     "images": ['static/description/icon.png'],
-    "version": "1.0.1.19.3.25",
+    "version": "11.19.07.30.0",
     "description": """
     
             update: round True
